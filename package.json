@@ -1,0 +1,32 @@
+{
+  "name": "blutzz-dark-pro",
+  "displayName": "Blutzz-Dark-Pro",
+  "description": "An elegant and beautiful dark theme for you updated 🍜.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blutzz-Dark-Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Blutzz-Dark-Pro-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icons/images.png",
+  "author": {
+    "name": "Mauricio Contreras Rivas",
+    "email": "mauriciocontrerasr1202@gmail.com",
+    "url": "https://www.linkedin.com/in/mauricio-contreras-rivas-8a271a229/"
+  },
+  "repository": {
+    "url": "https://github.com/MauricioC12/Blutzz-Dark-Pro",
+    "type": "git"
+  },
+  "publisher": "mauricioc12"
+}
